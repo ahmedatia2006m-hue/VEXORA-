@@ -1,0 +1,6 @@
+{
+  "name": "Vexora — Floating Shopping Constellation",
+  "description": "Floating shopping constellation on white marble with pillow-soft curves, GT Standard typography, and Shop violet discovery engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
